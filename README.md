@@ -1,4 +1,4 @@
-# Invoice Reconciliation Agent System
+# Autonomous Financial Document Processing Agent
 
 > **Multi-agent AI system for automated invoice processing and purchase order reconciliation**  
 > Built with LangGraph, Hugging Face LLMs, and intelligent agent orchestration
@@ -9,9 +9,9 @@
 
 ## 🌐 Live Demo
 
-**Try it now:** [Invoice Reconciliation System](https://invoice-reconciliation-agents.streamlit.app/)
+**Try it now:** [Autonomous Financial Document Processing Agent](https://invoice-reconciliation-agents.streamlit.app/)
 
-**GitHub:** [https://github.com/Suvroneel/invoice-reconciliation-agents](https://github.com/Suvroneel/invoice-reconciliation-agents)
+**GitHub:** [https://github.com/Suvroneel/Autonomous-Financial-Document-Processing-Agent](https://github.com/Suvroneel/Autonomous-Financial-Document-Processing-Agent)
 
 
 Demo repo for evaluation purposes only.
