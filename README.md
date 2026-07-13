@@ -494,10 +494,6 @@ Contributions welcome! Please:
 
 **GitHub:** [@Suvroneel](https://github.com/Suvroneel)
 
----
 
-## 🙏 Acknowledgments
-
-Built as part of technical assessment for NiyamAI Agent Development Internship.
 
 Technologies: LangGraph, LangChain, Hugging Face, Tesseract OCR
